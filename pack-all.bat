@@ -1,6 +1,6 @@
 @echo off
 
-for /D %%d in ("30\*" "31\*") do (
+for /D %%d in ("Books\*") do (
   echo ^<^<^<^<^<^< %%d ^>^>^>^>^>^>
   call pack-single.bat %%d
   echo.
