@@ -114,10 +114,8 @@
 <item id="Image_529_png" href="Image_529.png" media-type="image/png" fallback="fallback" />
 <item id="Image_645_png" href="Image_645.png" media-type="image/png" fallback="fallback" />
 <item id="Image_564_png" href="Image_564.png" media-type="image/png" fallback="fallback" />
-<item id="_25" href="_25.xhtml" media-type="application/xhtml+xml" properties="scripted" />
 <item id="Image_348_png" href="Image_348.png" media-type="image/png" fallback="fallback" />
 <item id="Image_604_png" href="Image_604.png" media-type="image/png" fallback="fallback" />
-<item id="_20" href="_20.xhtml" media-type="application/xhtml+xml" properties="scripted" />
 <item id="_8" href="_8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
 <item id="icon_web_resource_gif" href="icon_web_resource.gif" media-type="image/gif" fallback="fallback" />
 <item id="Image_626_jpg" href="Image_626.jpg" media-type="image/jpeg" fallback="fallback" />
@@ -147,7 +145,6 @@
 <item id="Image_448_png" href="Image_448.png" media-type="image/png" fallback="fallback" />
 <item id="_3" href="_3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
 <item id="_58" href="_58.xhtml" media-type="application/xhtml+xml" properties="scripted" />
-<item id="_23" href="_23.xhtml" media-type="application/xhtml+xml" properties="scripted" />
 <item id="Image_546_jpg" href="Image_546.jpg" media-type="image/jpeg" fallback="fallback" />
 <item id="Image_523_jpg" href="Image_523.jpg" media-type="image/jpeg" fallback="fallback" />
 <item id="Image_355_png" href="Image_355.png" media-type="image/png" fallback="fallback" />
@@ -195,7 +192,6 @@
 <item id="_50" href="_50.xhtml" media-type="application/xhtml+xml" properties="scripted" />
 <item id="g2548_png" href="g2548.png" media-type="image/png" fallback="fallback" />
 <item id="Image_573_png" href="Image_573.png" media-type="image/png" fallback="fallback" />
-<item id="_24" href="_24.xhtml" media-type="application/xhtml+xml" properties="scripted" />
 <item id="Image_605_png" href="Image_605.png" media-type="image/png" fallback="fallback" />
 <item id="_5" href="_5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
 <item id="g1112_png" href="g1112.png" media-type="image/png" fallback="fallback" />
@@ -290,7 +286,6 @@
 <item id="Image_493_png" href="Image_493.png" media-type="image/png" fallback="fallback" />
 <item id="icon_define_gif" href="icon_define.gif" media-type="image/gif" fallback="fallback" />
 <item id="Image_367_png" href="Image_367.png" media-type="image/png" fallback="fallback" />
-<item id="_21" href="_21.xhtml" media-type="application/xhtml+xml" properties="scripted" />
 <item id="Image_512_png" href="Image_512.png" media-type="image/png" fallback="fallback" />
 <item id="Image_357_png" href="Image_357.png" media-type="image/png" fallback="fallback" />
 <item id="_2" href="_2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
@@ -411,12 +406,7 @@
 <itemref idref="activity_11" />
 <itemref idref="teachers_corner_11" />
 <itemref idref="lesson_2" />
-<itemref idref="_20" />
-<itemref idref="_21" />
 <itemref idref="worksheet_12" />
-<itemref idref="_23" />
-<itemref idref="_24" />
-<itemref idref="_25" />
 <itemref idref="activity_12" />
 <itemref idref="teachers_corner_12" />
 <itemref idref="lesson_3" />
